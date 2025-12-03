@@ -69,8 +69,8 @@
 ## 👥 Default Login Credentials
 
 ### System Administrator
-- **Card UID:** 
-- **PIN:** 
+- **Card UID:** 123456789   
+- **PIN:** 000000
 - **Access:** Full system administration
 
 ## 📋 System Features
